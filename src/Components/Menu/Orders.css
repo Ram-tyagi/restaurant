@@ -1,0 +1,23 @@
+.orders{
+    display: flex;
+    border:1px solid black;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.orders >div{
+    width: 100%;
+}
+
+.orders button{
+   
+        font: inherit;
+        border: 1px solid #4f005f;
+        background: #4f005f;
+        color: white;
+        padding: 0.25rem 1rem;
+        cursor: pointer;
+      
+      
+}

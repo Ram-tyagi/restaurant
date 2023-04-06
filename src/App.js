@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1><u>Add Your Order</u></h1>
       <Menu/>
-    <h1><u>ORDERS</u></h1>
+    
     </div>
   );
 }
